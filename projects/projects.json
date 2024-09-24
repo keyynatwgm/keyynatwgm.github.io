@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Kids Education (KIDDU)",
+    "desc": "Kids Education is an innovative app designed specifically for children to learn in a more fun and interactive way",
+    "image": "kiddu",
+    "category": "figma",
+    "links": {
+      "view": "https://www.figma.com/proto/tMfNKEBSWQSs2SP7kP6RLj/IMK-TUBES?page-id=0%3A1&node-id=9-3&viewport=1052%2C6735%2C1&t=zM4e1W9dHpPnUzYU-1&scaling=scale-down&starting-point-node-id=9%3A3&show-proto-sidebar=1",
+      "code":"#"
+    }
+  },
+  {
+    "name": "Ekonomi Plus",
+    "desc": "This app helps users track expenses, register for government aid, and access financial consultations for future planning.",
+    "image": "ekonomiplus",
+    "category": "figma",
+    "links": {
+      "view": "https://www.figma.com/proto/7oZdLJTImyvImAtcLnC1qZ/Ekonomi%2B?page-id=5%3A2&node-id=245-467&viewport=2966%2C2547%2C0.56&t=j7cu7s3wjq2CfBvF-1&scaling=scale-down&starting-point-node-id=245%3A467",
+      "code":"#"
+    }
+  },
+  {
+    "name": "Diabetes factor predictions",
+    "desc": "To analyze the factors that have a significant influence on the likelihood of a person having diabetes based on dataset analysis using .",
+    "image": "diabetespredict",
+    "category": "ml",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/keyynatwgm/diabetes_factor_predictions"
+    }
+  },
+  {
+    "name": "Rock, Paper, Scissors Image Classification using CNN",
+    "desc": "Full-Stack project dashboard which is collection of projects built on the React library.",
+    "image": "rockpaper",
+    "category": "ml",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/keyynatwgm/rock_paper_scissors"
+    }
+  },
+  {
+    "name": "Bike Sharing Analysis",
+    "desc": "This project analyzes the Bike Sharing Dataset and presents the results through data visualizations in an interactive dashboard.",
+    "image": "bikesharing",
+    "category": "ml",
+    "links": {
+      "view": "https://dicodingbikesharing-dd2qn5d9wmc2fbywzct73y.streamlit.app/",
+      "code": "https://github.com/keyynatwgm/Dicoding_bike_sharing"
+    }
+  },
+  {
+    "name": "Fruit Classification using EfficientNetB1",
+    "desc": "This project implements fruit classification using the EfficientNetB1 model for accurate image-based predictions.",
+    "image": "fruit",
+    "category": "ml",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/keyynatwgm/fruit_classification"
+    }
+  }
+]
